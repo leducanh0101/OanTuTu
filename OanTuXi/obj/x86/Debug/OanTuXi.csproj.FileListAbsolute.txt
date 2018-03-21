@@ -1,0 +1,16 @@
+D:\OanTuXi\OanTuXi\bin\Debug\OanTuXi.exe
+D:\OanTuXi\OanTuXi\bin\Debug\OanTuXi.pdb
+D:\OanTuXi\OanTuXi\obj\x86\Debug\OanTuXi.Form1.resources
+D:\OanTuXi\OanTuXi\obj\x86\Debug\OanTuXi.Properties.Resources.resources
+D:\OanTuXi\OanTuXi\obj\x86\Debug\OanTuXi.csproj.GenerateResource.Cache
+D:\OanTuXi\OanTuXi\obj\x86\Debug\OanTuXi.exe
+D:\OanTuXi\OanTuXi\obj\x86\Debug\OanTuXi.pdb
+C:\Users\admin\Downloads\OanTuXi\OanTuXi\bin\Debug\OanTuXi.exe
+C:\Users\admin\Downloads\OanTuXi\OanTuXi\bin\Debug\OanTuXi.pdb
+C:\Users\admin\Downloads\OanTuXi\OanTuXi\obj\x86\Debug\OanTuXi.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\OanTuXi\OanTuXi\obj\x86\Debug\OanTuXi.Form1.resources
+C:\Users\admin\Downloads\OanTuXi\OanTuXi\obj\x86\Debug\OanTuXi.Properties.Resources.resources
+C:\Users\admin\Downloads\OanTuXi\OanTuXi\obj\x86\Debug\OanTuXi.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\OanTuXi\OanTuXi\obj\x86\Debug\OanTuXi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\OanTuXi\OanTuXi\obj\x86\Debug\OanTuXi.exe
+C:\Users\admin\Downloads\OanTuXi\OanTuXi\obj\x86\Debug\OanTuXi.pdb

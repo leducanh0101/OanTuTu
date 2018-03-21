@@ -1,0 +1,10 @@
+D:\OanTuXi\Server\bin\Debug\Server.exe
+D:\OanTuXi\Server\bin\Debug\Server.pdb
+D:\OanTuXi\Server\obj\x86\Debug\Server.exe
+D:\OanTuXi\Server\obj\x86\Debug\Server.pdb
+C:\Users\admin\Downloads\OanTuXi\Server\bin\Debug\Server.exe
+C:\Users\admin\Downloads\OanTuXi\Server\bin\Debug\Server.pdb
+C:\Users\admin\Downloads\OanTuXi\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\OanTuXi\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\OanTuXi\Server\obj\x86\Debug\Server.exe
+C:\Users\admin\Downloads\OanTuXi\Server\obj\x86\Debug\Server.pdb
